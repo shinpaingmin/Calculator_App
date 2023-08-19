@@ -1,0 +1,36 @@
+.btn-container {
+    width: 400px;
+    background: yellow;
+}
+
+.btn-group {
+    display: flex;
+    
+}
+
+.btn {
+    flex: 1;
+    height: 40px;
+    border: none;
+    cursor: pointer;
+    transition: all .5s ease;
+}
+
+.btn:hover {
+    background: #9a8484;
+    color: #fff;
+}
+
+.btn-container .btn-group:nth-child(6) .btn:first-child {
+    background: #000;
+    color: #fff;
+    flex: 1;
+    padding: 0 10px;
+    cursor: auto;
+}
+
+.btn-container .btn-group:nth-child(6) .btn:last-child {
+    background: orange;
+    flex: 2;
+}
+
