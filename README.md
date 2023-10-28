@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Project Showcase
+
+![screencapture-shinpaingmin-calculator-netlify-app-2023-10-28-20_29_37](https://github.com/shinpaingmin/Calculator_App/assets/103930442/b5c8cac8-9c46-4ce9-a977-1909eed9b68b)
+
 ## Available Scripts
 
 In the project directory, you can run:
